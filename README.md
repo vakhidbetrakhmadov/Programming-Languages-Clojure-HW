@@ -1,1 +1,1 @@
-# Programming-Languages-Clojure-HW
+This repo contains Intellij Idea project. Use Cursive addon for clojure.
